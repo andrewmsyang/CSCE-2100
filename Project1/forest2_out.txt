@@ -1,0 +1,160 @@
+The wind is now blowing N
+Current day: 0
+T T T   T T T 
+T T T   T T T 
+T T T   T T T 
+T T       T T 
+T T   F   T T 
+      T   T T 
+T T T T T T T 
+T T T T T T T 
+T T T T T T T 
+
+Current day: 1
+T T T   T T T 
+T T T   T T T 
+T T T   T T T 
+T T       T T 
+T T   F   T T 
+      T   T T 
+T T T T T T T 
+T T T T T T T 
+T T T T T T T 
+
+The wind is now blowing S
+Current day: 2
+T T T   T T T 
+T T T   T T T 
+T T T   T T T 
+T T       T T 
+T T   F   T T 
+      F   T T 
+T T T T T T T 
+T T T T T T T 
+T T T T T T T 
+
+Current day: 3
+T T T   T T T 
+T T T   T T T 
+T T T   T T T 
+T T       T T 
+T T   B   T T 
+      F   T T 
+T T F F F T T 
+T T T T T T T 
+T T T T T T T 
+
+Current day: 4
+T T T   T T T 
+T T T   T T T 
+T T T   T T T 
+T T       T T 
+T T   B   T T 
+      F   T T 
+T T F F F T T 
+T F F F F F T 
+T T T T T T T 
+
+The wind is now blowing N
+Current day: 5
+T T T   T T T 
+T T T   T T T 
+T T T   T T T 
+T T       T T 
+T T   B   T T 
+      B   F T 
+F F F F F F F 
+T F F F F F T 
+T T T T T T T 
+
+Current day: 6
+T T T   T T T 
+T T T   T T T 
+T T T   T T T 
+T T       T T 
+T T   B   F F 
+      B   F F 
+F F B B B F F 
+T F F F F F T 
+T T T T T T T 
+
+Current day: 7
+T T T   T T T 
+T T T   T T T 
+T T T   T T T 
+T T       F F 
+T T   B   F F 
+      B   F F 
+F F B B B F F 
+T B B B B B T 
+T T T T T T T 
+
+Current day: 8
+T T T   T T T 
+T T T   T T T 
+T T T   F F F 
+T T       F F 
+T T   B   F F 
+      B   B F 
+B B B B B B B 
+T B B B B B T 
+T T T T T T T 
+
+Current day: 9
+T T T   T T T 
+T T T   F F F 
+T T T   F F F 
+T T       F F 
+T T   B   B B 
+      B   B B 
+B B B B B B B 
+T B B B B B T 
+T T T T T T T 
+
+Current day: 10
+T T T   F F F 
+T T T   F F F 
+T T T   F F F 
+T T       B B 
+T T   B   B B 
+      B   B B 
+B B B B B B B 
+T B B B B B T 
+T T T T T T T 
+
+Current day: 11
+T T T   F F F 
+T T T   F F F 
+T T T   B B B 
+T T       B B 
+T T   B   B B 
+      B   B B 
+B B B B B B B 
+T B B B B B T 
+T T T T T T T 
+
+Current day: 12
+T T T   F F F 
+T T T   B B B 
+T T T   B B B 
+T T       B B 
+T T   B   B B 
+      B   B B 
+B B B B B B B 
+T B B B B B T 
+T T T T T T T 
+
+Current day: 13
+T T T   B B B 
+T T T   B B B 
+T T T   B B B 
+T T       B B 
+T T   B   B B 
+      B   B B 
+B B B B B B B 
+T B B B B B T 
+T T T T T T T 
+
+The forest fire took 13 days to burn out.
+Remember-Only YOU Can Prevent Forest Fires!
+-Smokey Bear

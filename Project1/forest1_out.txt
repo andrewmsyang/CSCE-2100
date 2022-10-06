@@ -1,0 +1,86 @@
+The wind is now blowing S
+Current day: 0
+T T T F T 
+T T T T T 
+T T T T T 
+T T T T T 
+T T T T T 
+T T T T T 
+T T T T T 
+
+Current day: 1
+T T T F T 
+T T F F F 
+T T T T T 
+T T T T T 
+T T T T T 
+T T T T T 
+T T T T T 
+
+Current day: 2
+T T T B T 
+T T F F F 
+T F F F F 
+T T T T T 
+T T T T T 
+T T T T T 
+T T T T T 
+
+The wind is now blowing W
+Current day: 3
+T F F B T 
+F F B B B 
+F F F F F 
+F F F F T 
+T T T T T 
+T T T T T 
+T T T T T 
+
+Current day: 4
+F F F B T 
+F F B B B 
+F B B B B 
+F F F F T 
+F F F T T 
+T T T T T 
+T T T T T 
+
+Current day: 5
+F B B B T 
+B B B B B 
+B B B B B 
+B B B B T 
+F F F T T 
+F F T T T 
+T T T T T 
+
+Current day: 6
+B B B B T 
+B B B B B 
+B B B B B 
+B B B B T 
+B B B T T 
+F F T T T 
+F T T T T 
+
+Current day: 7
+B B B B T 
+B B B B B 
+B B B B B 
+B B B B T 
+B B B T T 
+B B T T T 
+F T T T T 
+
+Current day: 8
+B B B B T 
+B B B B B 
+B B B B B 
+B B B B T 
+B B B T T 
+B B T T T 
+B T T T T 
+
+The forest fire took 8 days to burn out.
+Remember-Only YOU Can Prevent Forest Fires!
+-Smokey Bear
